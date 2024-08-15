@@ -25,17 +25,10 @@ Welcome to my internship tasks repository! This repo includes five machine learn
 
 3. Task 3: SVM Classification
    - Description: Implement a support vector machine (SVM) to classify images of cats and dogs from the Kaggle dataset.
-
-
-4. Task 4: Title
-Description: Brief overview of the project.
-Key Features: Feature 1, Feature 2
-Technologies: Tech 1, Tech 2
-
-5. Task 5: Title
-Description: Brief overview of the project.
-Key Features: Feature 1, Feature 2
-Technologies: Tech 1, Tech 2
+   - Input:
+     - Images of Cats and Dogs
+   - Output:
+     - A classifer which labels images either into a Cat or Dog.   
 
 Conclusion
 Feel free to explore each project and contact me if you have any questions!
